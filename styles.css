@@ -1,27 +1,54 @@
-background-color {
-    color: red;
+
+body{
+    background-color: seagreen;
+    text-align: center;
 }
     
 
 h1 {
-    color: green;
+    color: whitesmoke;
     font-style: bold;
+    margin-top: 10%;
     
     text-align: center;   
     
 }
+.pic1{
+    width: 500px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 2%;
+    
+}
 .tables {
     border:dotted;
-    border-width: 10cm;
-border-width: 3px;
+    border-width: 0.5cm;
+    margin: 5% 20%;
+    
 border-color: sienna;
-text-align : center;
+
 
 }
 .list{
     text-align: center;
-    margin-top:15px;
-    color: springgreen;
+    
+    margin-top:30px;
+    color: rgb(127, 172, 149);
+    font-size: bold;
+    
+    font-family: sans-serif; 
+    margin : 5% 20%;
+    border: double;
+
 
 }
+.fruits{
+    color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: lightslategrey
+    
+
+    
 }
